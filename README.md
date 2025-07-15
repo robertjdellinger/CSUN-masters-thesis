@@ -8,7 +8,7 @@ Master of Science in Biology — August 2024
 
 ## Full PDF 
 
-[![View Thesis PDF](https://img.shields.io/badge/PDF-Thesis-blue?logo=adobeacrobatreader&logoColor=white)](https://github.com/robertjdellinger/CSUN-masters-thesis/blob/main/_book/thesis.pdf)
+Check out the full PDf here: [![View Thesis PDF](https://img.shields.io/badge/PDF-Thesis-blue?logo=adobeacrobatreader&logoColor=white)](https://github.com/robertjdellinger/CSUN-masters-thesis/blob/main/_book/thesis.pdf)
 
 ---
 
