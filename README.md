@@ -15,9 +15,10 @@ Master of Science in Biology — August 2024
 ## Project Description
 
 This thesis explores how ocean acidification and warming jointly constrain the metabolic energy budgets of _Tegula funebralis_, a key California intertidal gastropod.  
+
 It combines:
 - A meta-synthesis of marine physiological responses to climate change (Chapter 1)
-- A full-factorial mesocosm experiment (Chapter 2)
+- A mesocosm experiment on _Tegula funebralis_ (Chapter 2)
 
 Built using [`bookdown`](https://bookdown.org/) / [`thesisdown`](https://github.com/ismayc/thesisdown) and a custom [`CSUNthesis.cls`](CSUNthesis.cls) file adapted to meet CSUN Department of Biology formatting requirements.
 
