@@ -1,0 +1,896 @@
+# References {-}
+
+<!--
+References section
+-->
+
+\markboth{References}{References}
+
+\noindent
+
+\setlength{\parindent}{-0.20in}
+\setlength{\leftskip}{0.20in}
+\setlength{\parskip}{4pt}
+
+
+\begingroup
+\small
+Akaike, H. (1974). A new look at the statistical model identification. \textit{IEEE Transactions on Automatic Control}, \textit{19}(6), 716–723. https://doi.org/10.1109/TAC.1974.1100705
+
+\vspace{0.1em}
+
+Allemand, D., Tambutté, É., Zoccola, D., \& Tambutté, S. (2011). Coral calcification, cells to reefs. In Z. Dubinsky \& N. Stambler (Eds.), \textit{Coral reefs: An ecosystem in transition} (pp. 119–150). Springer Netherlands. https://doi.org/10.1007/978-94-007-0114-4\_9
+
+\vspace{0.1em}
+
+Angilletta, M. J. (2009). \textit{Thermal adaptation: A theoretical and empirical synthesis}. Oxford University Press. https://play.google.com/store/books/details?id=oN\_OxgEACAAJ
+
+\vspace{0.1em}
+
+Angilletta, M. J., Jr., Huey, R. B., \& Frazier, M. R. (2010). Thermodynamic effects on organismal performance: Is hotter better? \textit{Physiological and Biochemical Zoology: PBZ}, \textit{83}(2), 197–206. https://doi.org/10.1086/648567
+
+\vspace{0.1em}
+
+Angilletta, M. J., Jr., Niewiarowski, P. H., \& Navas, C. A. (2002). The evolution of thermal physiology in ectotherms. \textit{Journal of Thermal Biology}, \textit{27}(4), 249–268. https://doi.org/10.1016/S0306-4565(01)00094-8
+
+\vspace{0.1em}
+
+Angilletta, M. J., Jr., \& Dunham, A. E. (2003). The temperature-size rule in ectotherms: Simple evolutionary explanations may not be general. \textit{The American Naturalist}, \textit{162}(3), 332–342.
+
+\vspace{0.1em}
+
+Arrhenius, S. (1915). Quantitative laws in biological chemistry. \textit{Nature}.
+
+\vspace{0.1em}
+
+Atkinson, D. (1994). Temperature and organism size—A biological law for ectotherms? \textit{Advances in Ecological Research}, \textit{25}, 1–58. https://cir.nii.ac.jp/crid/1570291225611713536
+
+\vspace{0.1em}
+
+Babcock, G. T., \& Wikström, M. (1992). Oxygen activation and the conservation of energy in cell respiration. \textit{Nature}, \textit{356}(6367), 301–309. https://doi.org/10.1038/356301a0
+
+\vspace{0.1em}
+
+Barclay, K. M., Gaylord, B., Jellison, B. M., Shukla, P., Sanford, E., \& Leighton, L. R. (2019). Variation in the effects of ocean acidification on shell growth and strength in two intertidal gastropods. \textit{Marine Ecology Progress Series}, \textit{626}, 109–121. https://doi.org/10.3354/meps13056
+
+\vspace{0.1em}
+
+Barclay, K. M., Gingras, M. K., Packer, S. T., \& Leighton, L. R. (2020). The role of gastropod shell composition and microstructure in resisting dissolution caused by ocean acidification. \textit{Marine Environmental Research}. https://doi.org/10.1016/j.marenvres.2020.105105
+
+\vspace{0.1em}
+
+Bartoń, K. (2023). MuMIn: Multi-model inference. \textit{CRAN R Project}. https://cran.r-project.org/web/packages/MuMIn/index.html
+
+\vspace{0.1em}
+
+Becker, D. M., \& Silbiger, N. J. (2020). Nutrient and sediment loading affect multiple facets of functionality in a tropical branching coral. \textit{The Journal of Experimental Biology}, \textit{223}(Pt 21), jeb225045. https://doi.org/10.1242/jeb.225045
+
+\vspace{0.1em}
+
+Bellwood, D. R., Hughes, T. P., Folke, C., \& Nyström, M. (2004). Confronting the coral reef crisis. \textit{Nature}, \textit{429}(6994), 827–833. https://doi.org/10.1038/nature02691
+
+\vspace{0.1em}
+
+Birk, M. A., McLean, E. L., \& Seibel, B. A. (2018). Ocean acidification does not limit squid metabolism via blood oxygen supply. \textit{The Journal of Experimental Biology}, \textit{221}(Pt 19), jeb187443. https://doi.org/10.1242/jeb.187443
+
+\vspace{0.1em}
+
+Boltzmann, L. (1872). \textit{Lectures on Gas Theory} (Vols. I\&II, S. G. Brush, Ed.). University of California Press.
+
+\vspace{0.1em}
+
+Boyd, P. W., \& Hutchins, D. A. (2012). Understanding the responses of ocean biota to a complex matrix of cumulative anthropogenic change. \textit{Marine Ecology Progress Series}, \textit{470}, 125–135. https://doi.org/10.3354/meps10121
+
+\vspace{0.1em}
+
+Bozinovic, F., \& Pörtner, H.-O. (2015). Physiological ecology meets climate change. \textit{Ecology and Evolution}, \textit{5}(5), 1025–1030. https://doi.org/10.1002/ece3.1403
+
+\vspace{0.1em}
+
+Bracken, M. E., Silbiger, N. J., Bernatchez, G., \& Sorte, C. J. (2018). Primary producers may ameliorate impacts of daytime CO$_2$ addition in a coastal marine ecosystem. \textit{PeerJ}, \textit{6}, e4739.
+
+\vspace{0.1em}
+
+Brockington, S., \& Clarke, A. (2001). The relative influence of temperature and food on the metabolism of a marine invertebrate. \textit{Journal of Experimental Marine Biology and Ecology}, \textit{258}(1), 87–99. https://doi.org/10.1016/S0022-0981(00)00347-6
+
+\vspace{0.1em}
+
+Brown, J. H., Gillooly, J. F., Allen, A. P., Savage, V. M., \& West, G. B. (2004). Toward a metabolic theory of ecology. \textit{Ecology}, \textit{85}(7), 1771–1789. https://doi.org/10.1890/03-9000
+
+\vspace{0.1em}
+
+Bull, J. J. (1985). Sex ratio and nest temperature in turtles: Comparing field and laboratory data. \textit{Ecology}, \textit{66}(4), 1115–1122. https://doi.org/10.2307/1939163
+
+\vspace{0.1em}
+
+Burger, F. A., John, J. G., \& Frölicher, T. L. (2020). Increase in ocean acidity variability and extremes under increasing atmospheric CO$_2$. \textit{Biogeosciences}, \textit{17}(18), 4633–4662. https://doi.org/10.5194/bg-17-4633-2020
+
+\vspace{0.1em}
+
+Byers, B. A., \& Mitton, J. B. (1981). Habitat choice in the intertidal snail \textit{Tegula funebralis}. \textit{Marine Biology}, \textit{65}, 149–154. https://doi.org/10.1007/BF00397079
+
+\vspace{0.1em}
+
+Carey, N., Harianto, J., \& Byrne, M. (2016). Sea urchins in a high-CO$_2$ world: Partitioned effects of body size, ocean warming and acidification on metabolic rate. \textit{The Journal of Experimental Biology}, \textit{219}(Pt 8), 1178–1186. https://doi.org/10.1242/jeb.136101
+
+\vspace{0.1em}
+
+Carter, M. L., Flick, R. E., Terrill, E., Beckhaus, E. C., Martin, K., Fey, C. L., Walker, P. W., Largier, J. L., \& McGowan, J. A. (2023). Shore stations program, Newport Beach - Balboa Pier. In \textit{Shore stations program data archive: Current and historical coastal ocean temperature and salinity measurements from California stations}. https://doi.org/10.6075/J0GX4BCP
+
+\vspace{0.1em}
+
+Chavez, F. P., Ryan, J., Lluch-Cota, S. E., \& Ñiquen C, M. (2003). From anchovies to sardines and back: Multidecadal change in the Pacific Ocean. \textit{Science}, \textit{299}(5604), 217–221. https://doi.org/10.1126/science.1075880
+
+\vspace{0.1em}
+
+Cheng, L., Abraham, J., Trenberth, K. E., Fasullo, J., Boyer, T., Mann, M. E., Zhu, J., Wang, F., Locarnini, R., Li, Y., Zhang, B., Yu, F., Wan, L., Chen, X., Feng, L., Song, X., Liu, Y., Reseghetti, F., Simoncelli, S., \& Li, G. (2023). Another year of record heat for the oceans. \textit{Advances in Atmospheric Sciences}, \textit{40}(6), 963–974. https://doi.org/10.1007/s00376-0232385-2
+
+\vspace{0.1em}
+
+Clarke, A., \& Pörtner, H.-O. (2010). Temperature, metabolic power and the evolution of endothermy. \textit{Biological Reviews of the Cambridge Philosophical Society}, \textit{85}(4), 703–727. https://doi.org/10.1111/j.1469-185X.2010.00122.x
+
+\vspace{0.1em}
+
+Connell, J. H. (1961). The influence of interspecific competition and other factors on the distribution of the barnacle \textit{Chthamalus stellatus}. \textit{Ecology}, \textit{42}(4), 710–723. https://doi.org/10.2307/1933500
+
+\vspace{0.1em}
+
+Connell, J. H. (1972). Community interactions on marine rocky intertidal shores. \textit{Annual Review of Ecology and Systematics}, \textit{3}(1), 169–192. https://doi.org/10.1146/annurev.es.03.110172.001125
+
+\vspace{0.1em}
+
+Connell, J. H., \& Slatyer, R. O. (1977). Mechanisms of succession in natural communities and their role in community stability and organization. \textit{The American Naturalist}, \textit{111}(982), 1119–1144. https://doi.org/10.1086/283241
+
+\vspace{0.1em}
+
+Connolly, S. R., \& Roughgarden, J. (1998). A latitudinal gradient in northeast Pacific intertidal community structure: Evidence for an oceanographically based synthesis of marine community theory. \textit{The American Naturalist}, \textit{151}(4), 311–326. https://doi.org/10.1086/286121
+
+\vspace{0.1em}
+
+Cooper, E. E., \& Shanks, A. L. (2011). Latitude and coastline shape correlate with age-structure of \textit{Tegula funebralis} populations. \textit{Marine Ecology Progress Series}, \textit{424}, 133–143. https://doi.org/10.3354/meps08993
+
+\vspace{0.1em}
+
+Corris, A. (2020). Defining the environment in organism–environment systems. \textit{Frontiers in Psychology}, \textit{11}, 1285. https://doi.org/10.3389/fpsyg.2020.01285
+
+\vspace{0.1em}
+
+Côté, I. M., Darling, E. S., \& Brown, C. J. (2016). Interactions among ecosystem stressors and their importance in conservation. \textit{Proceedings of the Royal Society B}, \textit{283}(1824), 20152592. https://doi.org/10.1098/rspb.2015.2592
+
+\vspace{0.1em}
+
+Darling, E. S., \& Côté, I. M. (2008). Quantifying the evidence for ecological synergies. \textit{Ecology Letters}, \textit{11}(12), 1278–1286. https://doi.org/10.1111/j.1461-0248.2008.01243.x
+
+\vspace{0.1em}
+
+Davis, J. L. D. (2001). Diel changes in habitat use by two tidepool fishes. \textit{Copeia}, \textit{2001}(3), 835–841. https://doi.org/10.1643/0045-8511(2001)001[0835:DCIHUB]2.0.CO;2
+
+\vspace{0.1em}
+
+Dayton, P. K. (1971). Competition, disturbance, and community organization: The provision and subsequent utilization of space in a rocky intertidal community. \textit{Ecological Monographs}, \textit{41}(4), 351–389. https://doi.org/10.2307/1948498
+
+\vspace{0.1em}
+
+Dell, A. I., Pawar, S., \& Savage, V. M. (2011). Systematic variation in the temperature dependence of physiological and ecological traits. \textit{Proceedings of the National Academy of Sciences of the United States of America}, \textit{108}(26), 10591–10596. https://doi.org/10.1073/pnas.1015178108
+
+\vspace{0.1em}
+
+Denny, M., \& Wethey, D. (2001). Physical processes that generate patterns in marine communities. In \textit{Marine Community Ecology} (pp. 3–37).
+
+\vspace{0.1em}
+
+Deser, C., Alexander, M. A., Xie, S.-P., \& Phillips, A. S. (2010). Sea surface temperature variability: Patterns and mechanisms. \textit{Annual Review of Marine Science}, \textit{2}, 115–143. https://doi.org/10.1146/annurev-marine-120408-151453
+
+\vspace{0.1em}
+
+Dickson, A. G., Sabine, C. L., \& Christian, J. R. (2007). \textit{Guide to Best Practices for Ocean CO$_2$ Measurements}. PICES Special Publication.
+
+\vspace{0.1em}
+
+Doney, S. C., Fabry, V. J., Feely, R. A., \& Kleypas, J. A. (2009). Ocean acidification: The other CO$_2$ problem. \textit{Annual Review of Marine Science}, \textit{1}, 169–192. https://doi.org/10.1146/annurev.marine.010908.163834
+
+\vspace{0.1em}
+
+Dowd, W. W., King, F. A., \& Denny, M. W. (2015). Thermal variation, thermal extremes and the physiological performance of individuals. \textit{The Journal of Experimental Biology}, \textit{218}(Pt 12), 1956–1967. https://doi.org/10.1242/jeb.114926
+
+\vspace{0.1em}
+
+Edmunds, P. J., \& Davies, P. S. (1986). An energy budget for \textit{Porites porites} (Scleractinia). \textit{Marine Biology}, \textit{92}, 339–347. https://doi.org/10.1007/BF00392674
+
+\vspace{0.1em}
+
+Elahi, R., Miller, L. P., \& Litvin, S. Y. (2020). Historical comparisons of body size are sensitive to data availability and ecological context. \textit{Ecology}, \textit{101}(9), e03101. https://doi.org/10.1002/ecy.3101
+
+\vspace{0.1em}
+
+Elliott, J. M., \& Davison, W. (1975). Energy equivalents of oxygen consumption in animal energetics. \textit{Oecologia}, \textit{19}(3), 195–201. https://doi.org/10.1007/BF00345305
+
+\vspace{0.1em}
+
+Erlandson, J. M., Ainis, A. F., Braje, T. J., Jew, N. P., McVey, M., Rick, T. C., Vellanoweth, R. L., \& Watts, J. (2015). 12,000 years of human predation on black turban snails (\textit{Chlorostoma funebralis}) on Alta California’s Northern Channel Islands. \textit{California Archaeology}, \textit{7}(1), 59–91. https://doi.org/10.1179/1947461X15Z.00000000056
+
+\vspace{0.1em}
+
+Erlandson, J. M., Graham, M. H., Bourque, B. J., Corbett, D., Estes, J. A., \& Steneck, R. S. (2007). The Kelp Highway Hypothesis: Marine ecology, the coastal migration theory, and the peopling of the Americas. \textit{The Journal of Island and Coastal Archaeology}, \textit{2}(2), 161–174. https://doi.org/10.1080/15564890701628612
+
+\vspace{0.1em}
+
+Estes, J. A., \& Palmisano, J. F. (1974). Sea otters: Their role in structuring nearshore communities. \textit{Science}, \textit{185}(4156), 1058–1060. https://doi.org/10.1126/science.185.4156.1058
+
+\vspace{0.1em}
+
+Evans, S. M. (1992). Comparative studies of two epizoic limpets, \textit{Collisella asmi} and \textit{Crepidula adunca}, on shells of turban snails (\textit{Tegula} spp.). \textit{Marine Behaviour and Physiology}, \textit{19}(4), 241–249. https://doi.org/10.1080/10236249209378812
+
+\vspace{0.1em}
+
+Fawcett, M. H. (1984). Local and latitudinal variation in predation on an herbivorous marine snail. \textit{Ecology}, \textit{65}(4), 1214–1230. https://doi.org/10.2307/1938329
+
+\vspace{0.1em}
+
+Feely, R. A., Sabine, C. L., Byrne, R. H., Millero, F. J., Dickson, A. G., Wanninkhof, R., Murata, A., Miller, L. A., \& Greeley, D. (2012). Decadal changes in the aragonite and calcite saturation state of the Pacific Ocean. \textit{Global Biogeochemical Cycles}, \textit{26}(3). https://doi.org/10.1029/2011GB004157
+
+\vspace{0.1em}
+
+Feely, R. A., Sabine, C. L., Hernandez-Ayon, J. M., Ianson, D., \& Hales, B. (2008). Evidence for upwelling of corrosive "acidified" water onto the continental shelf. \textit{Science}, \textit{320}(5882), 1490–1492. https://doi.org/10.1126/science.1155676
+
+\vspace{0.1em}
+
+Feely, R. A., Sabine, C. L., Lee, K., Berelson, W., Kleypas, J., Fabry, V. J., \& Millero, F. J. (2004). Impact of anthropogenic CO$_2$ on the CaCO$_3$ system in the oceans. \textit{Science}, \textit{305}(5682), 362–366. https://doi.org/10.1126/science.1097329
+
+\vspace{0.1em}
+
+Fields, J. B., \& Silbiger, N. J. (2022). Foundation species loss alters multiple ecosystem functions within temperate tidepool communities. \textit{Marine Ecology Progress Series}, \textit{679}, 1–18. https://doi.org/10.3354/meps13978
+
+\vspace{0.1em}
+
+Fox, J., \& Weisberg, S. (2018). \textit{An R Companion to Applied Regression} (3rd ed.). SAGE Publications. https://play.google.com/store/books/details?id=uPNrDwAAQBAJ
+
+\vspace{0.1em}
+
+Frank, P. W. (1975). Latitudinal variation in the life history features of the black turban snail \textit{Tegula funebralis} (Prosobranchia: Trochidae). \textit{Marine Biology}, \textit{31}(2), 181–192. https://doi.org/10.1007/BF00391630
+
+\vspace{0.1em}
+
+Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., Hauck, J., Le Quéré, C., Luijkx, I. T., Olsen, A., \& Peters, G. P. (2022). Global carbon budget 2022. \textit{Earth System Science Data}, \textit{14}(11), 4811–4900. https://doi.org/10.5194/essd-14-4811-2022
+
+\vspace{0.1em}
+
+Gammon, M., Fossette, S., McGrath, G., \& Mitchell, N. (2020). A systematic review of metabolic heat in sea turtle nests and methods to model its impact on hatching success. \textit{Frontiers in Ecology and Evolution}, \textit{8}, 556379. https://doi.org/10.3389/fevo.2020.556379
+
+\vspace{0.1em}
+
+García-Reyes, M., \& Largier, J. L. (2012). Seasonality of coastal upwelling off central and northern California: New insights, including temporal and spatial variability. \textit{Journal of Geophysical Research: Oceans}, \textit{117}(C3). https://doi.org/10.1029/2011JC007629
+
+\vspace{0.1em}
+
+Gattuso, J.-P., Epitalon, J.-M., Lavigne, H., Orr, J., Gentili, B., Hagens, M., Hofmann, A., Mueller, J.-D., Proye, A., Rae, J., \& Others. (2015). \textit{seacarb: Seawater carbonate chemistry with R}. R package version 3.2.12.
+
+\vspace{0.1em}
+
+Gaylord, B., Barclay, K. M., Jellison, B. M., Jurgens, L. J., Ninokawa, A. T., Rivest, E. B., \& Leighton, L. R. (2019). Ocean change within shoreline communities: From biomechanics to behaviour and beyond. \textit{Conservation Physiology}, \textit{7}(1), coz077. https://doi.org/10.1093/conphys/coz077
+
+\vspace{0.1em}
+
+Gaylord, B., Kroeker, K. J., Sunday, J. M., Anderson, K. M., Barry, J. P., Brown, N. E., Connell, S. D., Dupont, S., Fabricius, K. E., Hall-Spencer, J. H., Klinger, T., Milazzo, M., Munday, P. L., Russell, B. D., Sanford, E., Schreiber, S. J., Thiyagarajan, V., Vaughan, M. L. H., Widdicombe, S., \& Harley, C. D. G. (2015). Ocean acidification through the lens of ecological theory. \textit{Ecology}, \textit{96}(1), 3–15. https://doi.org/10.1890/14-0802.1
+
+\vspace{0.1em}
+
+Gazeau, F., Quiblier, C., Jansen, J. M., Gattuso, J.-P., Middelburg, J. J., \& Heip, C. H. R. (2007). Impact of elevated CO$_2$ on shellfish calcification. \textit{Geophysical Research Letters}, \textit{34}(7). https://doi.org/10.1029/2006GL028554
+
+\vspace{0.1em}
+
+Erlandson, J. M., Ainis, A. F., Braje, T. J., Jew, N. P., McVey, M., Rick, T. C., Vellanoweth, R. L., \& Watts, J. (2015). 12,000 years of human predation on black turban snails (\textit{Chlorostoma funebralis}) on Alta California’s Northern Channel Islands. \textit{California Archaeology}, \textit{7}(1), 59–91. https://doi.org/10.1179/1947461X15Z.00000000056
+
+\vspace{0.1em}
+
+Erlandson, J. M., Graham, M. H., Bourque, B. J., Corbett, D., Estes, J. A., \& Steneck, R. S. (2007). The Kelp Highway Hypothesis: Marine ecology, the coastal migration theory, and the peopling of the Americas. \textit{The Journal of Island and Coastal Archaeology}, \textit{2}(2), 161–174. https://doi.org/10.1080/15564890701628612
+
+\vspace{0.1em}
+
+Estes, J. A., \& Palmisano, J. F. (1974). Sea otters: Their role in structuring nearshore communities. \textit{Science}, \textit{185}(4156), 1058–1060. https://doi.org/10.1126/science.185.4156.1058
+
+\vspace{0.1em}
+
+Evans, S. M. (1992). Comparative studies of two epizoic limpets, \textit{Collisella asmi} and \textit{Crepidula adunca}, on shells of turban snails (\textit{Tegula} spp.). \textit{Marine Behaviour and Physiology}, \textit{19}(4), 241–249. https://doi.org/10.1080/10236249209378812
+
+\vspace{0.1em}
+
+Fawcett, M. H. (1984). Local and latitudinal variation in predation on an herbivorous marine snail. \textit{Ecology}, \textit{65}(4), 1214–1230. https://doi.org/10.2307/1938329
+
+\vspace{0.1em}
+
+Feely, R. A., Sabine, C. L., Byrne, R. H., Millero, F. J., Dickson, A. G., Wanninkhof, R., Murata, A., Miller, L. A., \& Greeley, D. (2012). Decadal changes in the aragonite and calcite saturation state of the Pacific Ocean. \textit{Global Biogeochemical Cycles}, \textit{26}(3). https://doi.org/10.1029/2011GB004157
+
+\vspace{0.1em}
+
+Feely, R. A., Sabine, C. L., Hernandez-Ayon, J. M., Ianson, D., \& Hales, B. (2008). Evidence for upwelling of corrosive "acidified" water onto the continental shelf. \textit{Science}, \textit{320}(5882), 1490–1492. https://doi.org/10.1126/science.1155676
+
+\vspace{0.1em}
+
+Feely, R. A., Sabine, C. L., Lee, K., Berelson, W., Kleypas, J., Fabry, V. J., \& Millero, F. J. (2004). Impact of anthropogenic CO$_2$ on the CaCO$_3$ system in the oceans. \textit{Science}, \textit{305}(5682), 362–366. https://doi.org/10.1126/science.1097329
+
+\vspace{0.1em}
+
+Fields, J. B., \& Silbiger, N. J. (2022). Foundation species loss alters multiple ecosystem functions within temperate tidepool communities. \textit{Marine Ecology Progress Series}, \textit{679}, 1–18. https://doi.org/10.3354/meps13978
+
+\vspace{0.1em}
+
+Fox, J., \& Weisberg, S. (2018). \textit{An R Companion to Applied Regression} (3rd ed.). SAGE Publications. https://play.google.com/store/books/details?id=uPNrDwAAQBAJ
+
+\vspace{0.1em}
+
+Frank, P. W. (1975). Latitudinal variation in the life history features of the black turban snail \textit{Tegula funebralis} (Prosobranchia: Trochidae). \textit{Marine Biology}, \textit{31}(2), 181–192. https://doi.org/10.1007/BF00391630
+
+\vspace{0.1em}
+
+Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., Hauck, J., Le Quéré, C., Luijkx, I. T., Olsen, A., \& Peters, G. P. (2022). Global carbon budget 2022. \textit{Earth System Science Data}, \textit{14}(11), 4811–4900. https://doi.org/10.5194/essd-14-4811-2022
+
+\vspace{0.1em}
+
+Gammon, M., Fossette, S., McGrath, G., \& Mitchell, N. (2020). A systematic review of metabolic heat in sea turtle nests and methods to model its impact on hatching success. \textit{Frontiers in Ecology and Evolution}, \textit{8}, 556379. https://doi.org/10.3389/fevo.2020.556379
+
+\vspace{0.1em}
+
+García-Reyes, M., \& Largier, J. L. (2012). Seasonality of coastal upwelling off central and northern California: New insights, including temporal and spatial variability. \textit{Journal of Geophysical Research: Oceans}, \textit{117}(C3). https://doi.org/10.1029/2011JC007629
+
+\vspace{0.1em}
+
+Gattuso, J.-P., Epitalon, J.-M., Lavigne, H., Orr, J., Gentili, B., Hagens, M., Hofmann, A., Mueller, J.-D., Proye, A., Rae, J., \& Others. (2015). \textit{seacarb: Seawater carbonate chemistry with R}. R package version 3.2.12.
+
+\vspace{0.1em}
+
+Gaylord, B., Barclay, K. M., Jellison, B. M., Jurgens, L. J., Ninokawa, A. T., Rivest, E. B., \& Leighton, L. R. (2019). Ocean change within shoreline communities: From biomechanics to behaviour and beyond. \textit{Conservation Physiology}, \textit{7}(1), coz077. https://doi.org/10.1093/conphys/coz077
+
+\vspace{0.1em}
+
+Gaylord, B., Kroeker, K. J., Sunday, J. M., Anderson, K. M., Barry, J. P., Brown, N. E., Connell, S. D., Dupont, S., Fabricius, K. E., Hall-Spencer, J. H., Klinger, T., Milazzo, M., Munday, P. L., Russell, B. D., Sanford, E., Schreiber, S. J., Thiyagarajan, V., Vaughan, M. L. H., Widdicombe, S., \& Harley, C. D. G. (2015). Ocean acidification through the lens of ecological theory. \textit{Ecology}, \textit{96}(1), 3–15. https://doi.org/10.1890/14-0802.1
+
+\vspace{0.1em}
+
+Gazeau, F., Quiblier, C., Jansen, J. M., Gattuso, J.-P., Middelburg, J. J., \& Heip, C. H. R. (2007). Impact of elevated CO$_2$ on shellfish calcification. \textit{Geophysical Research Letters}, \textit{34}(7). https://doi.org/10.1029/2006GL028554
+
+\vspace{0.1em}
+
+\vspace{0.1em}
+
+Hijmans, R. J., Van Etten, J., Cheng, J., Mattiuzzi, M., Sumner, M., Greenberg, J. A., Lamigueiro, O. P., Bevan, A., Racine, E. B., Shortridge, A., \& others. (2015). \textit{raster: Geographic Data Analysis and Modeling} (R package version 2.5-2). https://cran.r-project.org/package=raster
+
+\vspace{0.1em}
+
+Hochachka, P. W. (1967). Organization of metabolism during temperature compensation. In M. F. Prosser (Ed.), \textit{Molecular Mechanisms of Temperature Adaptation} (pp. 177–203). American Elsevier.
+
+\vspace{0.1em}
+
+Hochachka, P. W., \& Somero, G. N. (2002). \textit{Biochemical adaptation: Mechanism and process in physiological evolution}. Oxford University Press.
+
+\vspace{0.1em}
+
+Hoegh-Guldberg, O., Mumby, P. J., Hooten, A. J., Steneck, R. S., Greenfield, P., Gomez, E., Harvell, C. D., Sale, P. F., Edwards, A. J., Caldeira, K., Knowlton, N., Eakin, C. M., Iglesias-Prieto, R., Muthiga, N., Bradbury, R. H., Dubi, A., \& Hatziolos, M. E. (2007). Coral reefs under rapid climate change and ocean acidification. \textit{Science}, \textit{318}(5857), 1737–1742. https://doi.org/10.1126/science.1152509
+
+\vspace{0.1em}
+
+Hofmann, G. E., Evans, T. G., Kelly, M. W., Padilla-Gamiño, J. L., Blanchette, C. A., Washburn, L., Chan, F., McManus, M. A., Menge, B. A., \& Gaylord, B. (2014). Exploring local adaptation and the ocean acidification seascape—studies in the California Current Large Marine Ecosystem. \textit{Biogeosciences}, \textit{11}(4), 1053–1064. https://doi.org/10.5194/bg-11-1053-2014
+
+\vspace{0.1em}
+
+Hofmann, G. E., \& Todgham, A. E. (2010). Living in the now: Physiological mechanisms to tolerate a rapidly changing environment. \textit{Annual Review of Physiology}, \textit{72}, 127–145. https://doi.org/10.1146/annurev-physiol-021909-135900
+
+\vspace{0.1em}
+
+Huey, R. B., \& Kingsolver, J. G. (1989). Evolution of thermal sensitivity of ectotherm performance. \textit{Trends in Ecology \& Evolution}, \textit{4}(5), 131–135. https://doi.org/10.1016/0169-5347(89)90211-5
+
+\vspace{0.1em}
+
+Huey, R. B., \& Stevenson, R. D. (1979). Integrating thermal physiology and ecology of ectotherms: A discussion of approaches. \textit{American Zoologist}, \textit{19}(1), 357–366. https://doi.org/10.1093/icb/19.1.357
+
+\vspace{0.1em}
+
+IPCC. (2023). \textit{Climate Change 2023: Synthesis Report}. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (H. Lee, J. Skea, P. Zhai, D. Roberts, P. R. Shukla, A. Mukherjee, E. C. Buendia, \& K. Tanabe, Eds.). IPCC. https://doi.org/10.59327/IPCC/AR6-9789291691647
+
+\vspace{0.1em}
+
+Jellison, B. M., \& Gaylord, B. (2019). Shifts in seawater chemistry disrupt trophic links within a simple shoreline food web. \textit{Oecologia}, \textit{190}(4), 955–967. https://doi.org/10.1007/s00442-019-04422-9
+
+\vspace{0.1em}
+
+Jellison, B. M., Elsmore, K. E., Miller, J. T., Ng, G., Ninokawa, A. T., Hill, T. M., \& Gaylord, B. (2022). Low-pH seawater alters indirect interactions in rocky-shore tidepools. \textit{Ecology and Evolution}, \textit{12}(2), e8607. https://doi.org/10.1002/ece3.8607
+
+\vspace{0.1em}
+
+Jellison, B. M., Ninokawa, A. T., Hill, T. M., Sanford, E., \& Gaylord, B. (2016). Ocean acidification alters the response of intertidal snails to a key sea star predator. \textit{Proceedings of the Royal Society B: Biological Sciences}, \textit{283}(1833), 20160890. https://doi.org/10.1098/rspb.2016.0890
+
+\vspace{0.1em}
+
+Jones, E., \& Long, J. D. (2018). Geographic variation in the sensitivity of an herbivore-induced seaweed defense. \textit{Ecology}, \textit{99}(8), 1748–1758. https://doi.org/10.1002/ecy.2407
+
+\vspace{0.1em}
+
+Katz, M. E., Finkel, Z. V., Grzebyk, D., Knoll, A. H., \& Falkowski, P. G. (2004). Evolutionary trajectories and biogeochemical impacts of marine eukaryotic phytoplankton. \textit{Annual Review of Ecology, Evolution, and Systematics}, \textit{35}, 523–556. https://doi.org/10.1146/annurev.ecolsys.35.112202.130137
+
+\vspace{0.1em}
+
+Kahle, D., \& Wickham, H. (2013). ggmap: Spatial visualization with ggplot2. \textit{The R Journal}, \textit{5}(1), 144–161. https://doi.org/10.32614/RJ-2013-014
+
+\vspace{0.1em}
+
+Kingsolver, J. G., \& Huey, R. B. (2008). Size, temperature, and fitness: Three rules. \textit{Evolutionary Ecology Research}, \textit{10}(2), 251–268.
+
+\vspace{0.1em}
+
+Kordas, R. L., Harley, C. D. G., \& O’Connor, M. I. (2011). Community ecology in a warming world: The influence of temperature on interspecific interactions in marine systems. \textit{Journal of Experimental Marine Biology and Ecology}, \textit{400}(1–2), 218–226. https://doi.org/10.1016/j.jembe.2011.02.029
+
+\vspace{0.1em}
+
+Kroeker, K. J., Gambi, M. C., \& Micheli, F. (2013). Community dynamics and ecosystem simplification in a high-CO$_2$ ocean. \textit{Proceedings of the National Academy of Sciences}, \textit{110}(31), 12721–12726. https://doi.org/10.1073/pnas.1216464110
+
+\vspace{0.1em}
+
+Kroeker, K. J., Gaylord, B., Hill, T. M., Hosfelt, J. D., Miller, S. H., \& Sanford, E. (2014). The role of temperature in determining species’ vulnerability to ocean acidification: A case study using \textit{Mytilus galloprovincialis}. \textit{PLoS ONE}, \textit{9}(7), e100353. https://doi.org/10.1371/journal.pone.0100353
+
+\vspace{0.1em}
+
+Kroeker, K. J., Kordas, R. L., Crim, R., Hendriks, I. E., Ramajo, L., Singh, G. S., Duarte, C. M., \& Gattuso, J.-P. (2013). Impacts of ocean acidification on marine organisms: Quantifying sensitivities and interaction with warming. \textit{Global Change Biology}, \textit{19}(6), 1884–1896. https://doi.org/10.1111/gcb.12179
+
+\vspace{0.1em}
+
+Kroeker, K. J., Kordas, R. L., \& Harley, C. D. G. (2017). Embracing interactions in ocean acidification research: Confronting multiple stressor scenarios and context dependence. \textit{Biology Letters}, \textit{13}(3), 20160802. https://doi.org/10.1098/rsbl.2016.0802
+
+\vspace{0.1em}
+
+Kroeker, K. J., Micheli, F., \& Gambi, M. C. (2012). Ocean acidification causes ecosystem shifts via altered competitive interactions. \textit{Nature Climate Change}, \textit{3}(2), 156–159. https://doi.org/10.1038/nclimate1680
+
+\vspace{0.1em}
+
+Kroeker, K. J., \& Sanford, E. (2022). Ecological leverage points: Species interactions amplify the physiological effects of global environmental change in the ocean. \textit{Annual Review of Marine Science}, \textit{14}, 75–103. https://doi.org/10.1146/annurev-marine-042021-051211
+
+\vspace{0.1em}
+
+Kroeker, K. J., Sanford, E., Jellison, B. M., \& Gaylord, B. (2014). Predicting the effects of ocean acidification on predator-prey interactions: A conceptual framework based on coastal molluscs. \textit{The Biological Bulletin}, \textit{226}(3), 211–222. https://doi.org/10.1086/BBLv226n3p211
+
+\vspace{0.1em}
+
+Kroeker, K. J., Sanford, E., Rose, J. M., Blanchette, C. A., Chan, F., Chavez, F. P., Gaylord, B., Helmuth, B., Hill, T. M., Hofmann, G. E., McManus, M. A., Menge, B. A., Nielsen, K. J., Raimondi, P. T., Russell, A. D., \& Washburn, L. (2016). Interacting environmental mosaics drive geographic variation in mussel performance and predation vulnerability. \textit{Ecology Letters}, \textit{19}(7), 771–779. https://doi.org/10.1111/ele.12613
+
+\vspace{0.1em}
+
+Kunze, C., Wölfelschneider, M., \& Rölfer, L. (2021). Multiple driver impacts on rocky intertidal systems: The need for an integrated approach. \textit{Frontiers in Marine Science}, \textit{8}, 667168. https://doi.org/10.3389/fmars.2021.667168
+
+\vspace{0.1em}
+
+Kwiatkowski, L., Gaylord, B., Hill, T. M., Hosfelt, J., Kroeker, K. J., Nebuchina, Y., Ninokawa, A., Russell, A. D., Rivest, E. B., \& Sesboüé, M. (2016). Nighttime dissolution in a temperate coastal ocean ecosystem increases under acidification. \textit{Scientific Reports}, \textit{6}(1), 22984. https://doi.org/10.1038/srep22984
+
+\vspace{0.1em}
+
+Lefevre, S. (2016). Are global warming and ocean acidification conspiring against marine ectotherms? A meta-analysis of the respiratory effects of elevated temperature, high CO$_2$, and their interaction. \textit{Conservation Physiology}, \textit{4}(1), cow009. https://doi.org/10.1093/conphys/cow009
+
+\vspace{0.1em}
+
+Lenth, R. V. (2016). Least-squares means: The R package \texttt{lsmeans}. \textit{Journal of Statistical Software}, \textit{69}, 1–33. https://doi.org/10.18637/jss.v069.i01
+
+\vspace{0.1em}
+
+Levene, H. (1961). Robust tests for equality of variances. In I. Olkin (Ed.), \textit{Contributions to Probability and Statistics} (pp. 278–292). Stanford University Press.
+
+\vspace{0.1em}
+
+Levin, S. A., \& Paine, R. T. (1974). Disturbance, patch formation, and community structure. \textit{Proceedings of the National Academy of Sciences}, \textit{71}(7), 2744–2747. https://doi.org/10.1073/pnas.71.7.2744
+
+\vspace{0.1em}
+
+Levin, S. A. (1992). The problem of pattern and scale in ecology: The Robert H. MacArthur award lecture. \textit{Ecology}, \textit{73}(6), 1943–1967. https://doi.org/10.2307/1941447
+
+
+\vspace{0.1em}
+
+Levins, R. (1968). \textit{Evolution in changing environments}. Princeton University Press.
+
+\vspace{0.1em}
+
+Levins, R. (1969). Thermal acclimation and heat resistance in \textit{Drosophila} species. \textit{The American Naturalist}, \textit{103}(933), 483–499. https://doi.org/10.1086/282616
+
+\vspace{0.1em}
+
+Levins, R., \& Lewontin, R. (1985). \textit{The dialectical biologist}. Harvard University Press.
+
+\vspace{0.1em}
+
+Lewontin, R. (1983). The organism as the subject and object of evolution. \textit{Scientia; Rivista Di Scienza}, \textit{77}(18).
+
+\vspace{0.1em}
+
+Licker, R., Ekwurzel, B., Doney, S. C., Cooley, S. R., Lima, I. D., Heede, R., \& Frumhoff, P. C. (2019). Attributing ocean acidification to major carbon producers. \textit{Environmental Research Letters}, \textit{14}(12), 124060. https://doi.org/10.1088/1748-9326/ab5e6b
+
+\vspace{0.1em}
+
+Luan, L., Jiang, Y., Dini-Andreote, F., Crowther, T. W., Li, P., Bahram, M., Zheng, J., Xu, Q., Zhang, X.-X., \& Sun, B. (2023). Integrating pH into the metabolic theory of ecology to predict bacterial diversity in soil. \textit{Proceedings of the National Academy of Sciences of the United States of America}, \textit{120}(3), e2207832120. https://doi.org/10.1073/pnas.2207832120
+
+\vspace{0.1em}
+
+Lubchenco, J. (1978). Plant species diversity in a marine intertidal community: Importance of herbivore food preference and algal competitive abilities. \textit{The American Naturalist}, \textit{112}(983), 23–39. https://doi.org/10.1086/283250
+
+\vspace{0.1em}
+
+Lubchenco, J. (1983). \textit{Littorina} and \textit{Fucus}: Effects of herbivores, substratum heterogeneity, and plant escapes during succession. \textit{Ecology}, \textit{64}(5), 1116–1123. https://doi.org/10.2307/1937822
+
+\vspace{0.1em}
+
+Lubchenco, J., \& Gaines, S. D. (1981). A unified approach to marine plant-herbivore interactions. I. Populations and communities. \textit{Annual Review of Ecology and Systematics}, \textit{12}, 405–437. https://doi.org/10.1146/annurev.es.12.110181.002201
+
+\vspace{0.1em}
+
+Lüdecke, D., Ben-Shachar, M. S., Patil, I., Waggoner, P., \& Makowski, D. (2021). \texttt{performance}: An R package for assessment, comparison and testing of statistical models. \textit{Journal of Open Source Software}, \textit{6}(60), 3139. https://doi.org/10.21105/joss.03139
+
+\vspace{0.1em}
+
+Mekkes, L., Renema, W., Bednaršek, N., Alin, S. R., Feely, R. A., Huisman, J., Roessingh, P., \& Peijnenburg, K. T. C. A. (2021). Pteropods make thinner shells in the upwelling region of the California Current ecosystem. \textit{Scientific Reports}, \textit{11}(1), 1731. https://doi.org/10.1038/s41598-021-81131-9
+
+\vspace{0.1em}
+
+Menge, B. A., \& Sutherland, J. P. (1987). Community regulation: Variation in disturbance, competition, and predation in relation to environmental stress and recruitment. \textit{The American Naturalist}, \textit{130}(5), 730–757. https://doi.org/10.1086/284741
+
+\vspace{0.1em}
+
+Mesce, K. A. (1993). The shell selection behavior of two closely related hermit crabs. \textit{Animal Behaviour}, \textit{45}(4), 659–671. https://doi.org/10.1006/anbe.1993.1081
+
+\vspace{0.1em}
+
+Michaelidis, B., Ouzounis, C., Paleras, A., \& Pörtner, H. O. (2005a). Effects of long-term moderate hypercapnia on acid–base balance and growth rate in marine mussels \textit{Mytilus galloprovincialis}. \textit{Marine Ecology Progress Series}, \textit{293}, 109–118. https://doi.org/10.3354/meps293109
+
+\vspace{0.1em}
+
+Michaelidis, B., Ouzounis, C., Paleras, A., \& Pörtner, H. O. (2005b). Effects of long-term moderate hypercapnia on acid–base balance and growth rate in marine mussels \textit{Mytilus galloprovincialis}. \textit{Marine Ecology Progress Series}, \textit{293}, 109–118. https://doi.org/10.3354/meps293109
+
+\vspace{0.1em}
+
+Michaelidis, B., Ouzounis, C., Paleras, A., \& Pörtner, H. O. (2005c). Effects of long-term moderate hypercapnia on acid–base balance and growth rate in marine mussels \textit{Mytilus galloprovincialis}. \textit{Marine Ecology Progress Series}, \textit{293}, 109–118. https://doi.org/10.3354/meps293109
+
+\vspace{0.1em}
+
+\vspace{0.1em}
+
+Moré, J. J. (1978). The Levenberg–Marquardt algorithm: Implementation and theory. In G. A. Watson (Ed.), \textit{Numerical Analysis: Proceedings of the Dundee Conference on Numerical Analysis} (pp. 105–116). Springer. https://doi.org/10.1007/BFb0067700
+
+\vspace{0.1em}
+
+Morris, R. H., Abbott, D. P., \& Haderlie, E. C. (1980). \textit{Intertidal invertebrates of California}. Stanford University Press.
+
+\vspace{0.1em}
+
+Multi-Agency Rocky Intertidal Network (MARINe), Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO), \& Burnaford, J. (2023). MARINe/PISCO: Intertidal: Site temperature data: Point Fermin, California (IPTFXX) [dataset]. https://doi.org/10.6085/AA/IPTFXX\_XXXITV2XMSR01\_20220130.50.1
+
+\vspace{0.1em}
+
+Munday, P. L., Dixson, D. L., Donelson, J. M., Jones, G. P., Pratchett, M. S., Devitsina, G. V., \& Døving, K. B. (2009). Ocean acidification impairs olfactory discrimination and homing ability of a marine fish. \textit{Proceedings of the National Academy of Sciences}, \textit{106}(6), 1848–1852. https://doi.org/10.1073/pnas.0809996106
+
+\vspace{0.1em}
+
+Mundim, K. C., Baraldi, S., Machado, H. G., \& Vieira, F. M. C. (2020). Temperature coefficient (Q$_{10}$) and its applications in biological systems: Beyond the Arrhenius theory. \textit{Ecological Modelling}, \textit{431}, 109127. https://doi.org/10.1016/j.ecolmodel.2020.109127
+
+\vspace{0.1em}
+
+Nielsen, K. J. (2001). Bottom-up and top-down forces in tide pools: Test of a food chain model in an intertidal community. \textit{Ecological Monographs}, \textit{71}(2), 187–206. https://doi.org/10.1890/0012-9615(2001)071[0187:BUATDF]2.0.CO;2
+
+\vspace{0.1em}
+
+O’Connor, M. I., Bruno, J. F., Gaines, S. D., Halpern, B. S., Lester, S. E., Kinlan, B. P., \& Weiss, J. M. (2007). Temperature control of larval dispersal and the implications for marine ecology, evolution, and conservation. \textit{Proceedings of the National Academy of Sciences}, \textit{104}(4), 1266–1271. https://doi.org/10.1073/pnas.0603422104
+
+\vspace{0.1em}
+
+O’Connor, M. I., Piehler, M. F., Leech, D. M., Anton, A., \& Bruno, J. F. (2009). Warming and resource availability shift food web structure and metabolism. \textit{PLOS Biology}, \textit{7}(8), e1000178. https://doi.org/10.1371/journal.pbio.1000178
+
+\vspace{0.1em}
+
+Odum, E. P. (1968). Energy flow in ecosystems: A historical review. \textit{American Zoologist}, \textit{8}(1), 11–18. https://doi.org/10.1093/icb/8.1.11
+
+\vspace{0.1em}
+
+Olito, C., White, C. R., Marshall, D. J., \& Barneche, D. R. (2017). Estimating monotonic rates from biological data using local linear regression. \textit{The Journal of Experimental Biology}, \textit{220}(5), 759–764. https://doi.org/10.1242/jeb.148775
+
+\vspace{0.1em}
+
+Orr, J. C., Fabry, V. J., Aumont, O., Bopp, L., Doney, S. C., Feely, R. A., Gnanadesikan, A., Gruber, N., Ishida, A., \& Joos, F. (2005). Anthropogenic ocean acidification over the twenty-first century and its impact on calcifying organisms. \textit{Nature}, \textit{437}(7059), 681–686. https://doi.org/10.1038/nature04095
+
+\vspace{0.1em}
+
+\vspace{0.1em}
+
+Pacific Rocky Intertidal Monitoring. (2004). Pacific rocky intertidal monitoring: Long-term monitoring of rocky intertidal communities. University of California, Santa Cruz. Retrieved June 7, 2024, from https://rockyintertidal.cisr.ucsc.edu/
+
+\vspace{0.1em}
+
+Padfield, D., \& Matheson, G. (2023). nls.multstart: Robust non-linear regression using AIC scores [R package]. https://cran.r-project.org/package=nls.multstart
+
+\vspace{0.1em}
+
+Padfield, D., O’Sullivan, H., \& Pawar, S. (2021). rTPC and nls.multstart: A new pipeline to fit thermal performance curves in R. \textit{Methods in Ecology and Evolution}, \textit{12}(7), 1138–1143. https://doi.org/10.1111/2041-210X.13585
+
+\vspace{0.1em}
+
+Paine, R. T. (1966). Food web complexity and species diversity. \textit{The American Naturalist}, \textit{100}(910), 65–75. https://doi.org/10.1086/282400
+
+\vspace{0.1em}
+
+Paine, R. T. (1969). The Pisaster–Tegula interaction: Prey patches, predator food preference, and intertidal community structure. \textit{Ecology}, \textit{50}(6), 950–961. https://doi.org/10.2307/1936888
+
+\vspace{0.1em}
+
+Paine, R. T. (1971). Energy flow in a population of the herbivorous gastropod \textit{Tegula funebralis}. \textit{Limnology and Oceanography}, \textit{16}(1), 86–98. https://doi.org/10.4319/lo.1971.16.1.0086
+
+\vspace{0.1em}
+
+Paine, R. T. (1980). Food webs: Linkage, interaction strength and community infrastructure. \textit{The Journal of Animal Ecology}, \textit{49}(3), 667–685. https://doi.org/10.2307/4220
+
+\vspace{0.1em}
+
+Paine, R. T., \& Gould, C. E. (1977). Controlled manipulations in the marine intertidal zone and their contributions to ecological theory. \textit{Proceedings of the Academy of Natural Sciences of Philadelphia}, \textit{128}, 245–270.
+
+\vspace{0.1em}
+
+Paine, R. T., Tegner, M. J., \& Johnson, E. A. (1998). Compounded perturbations yield ecological surprises. \textit{Ecosystems}, \textit{1}(6), 535–545. https://doi.org/10.1007/s100219900049
+
+\vspace{0.1em}
+
+Patil, I. (2021). Visualizations with statistical details: The “ggstatsplot” approach. \textit{Journal of Open Source Software}, \textit{6}(61), 3167. https://doi.org/10.21105/joss.03167
+
+\vspace{0.1em}
+
+Pebesma, E. (2018). Simple features for R: Standardized support for spatial vector data. \textit{The R Journal}, \textit{10}(1), 439–446. https://doi.org/10.32614/RJ-2018-009
+
+\vspace{0.1em}
+
+Pinsky, M. L., Worm, B., Fogarty, M. J., Sarmiento, J. L., \& Levin, S. A. (2013). Marine taxa track local climate velocities. \textit{Science}, \textit{341}(6151), 1239–1242. https://doi.org/10.1126/science.1239352
+
+\vspace{0.1em}
+
+Poloczanska, E. S., Burrows, M. T., Brown, C. J., Molinos, J. G., Halpern, B. S., Hoegh-Guldberg, O., Kappel, C. V., Moore, P. J., Richardson, A. J., Schoeman, D. S., \& Sydeman, W. J. (2016). Responses of marine organisms to climate change across oceans. \textit{Frontiers in Marine Science}, \textit{3}, 62. https://doi.org/10.3389/fmars.2016.00062
+
+\vspace{0.1em}
+
+\vspace{0.1em}
+
+Pörtner, H.-O. (2010). Oxygen- and capacity-limitation of thermal tolerance: a matrix for integrating climate-related stressor effects in marine ecosystems. \textit{The Journal of Experimental Biology}, \textit{213}(6), 881–893. https://doi.org/10.1242/jeb.037523
+
+\vspace{0.1em}
+
+Pörtner, H. O. (2012a). Integrating climate-related stressor effects on marine organisms: unifying principles linking molecule to ecosystem-level changes. \textit{Marine Ecology Progress Series}, \textit{470}, 273–290. https://doi.org/10.3354/meps10123
+
+\vspace{0.1em}
+
+Pörtner, H. O. (2012b). Integrating climate-related stressor effects on marine organisms: unifying principles linking molecule to ecosystem-level changes. \textit{Marine Ecology Progress Series}, \textit{470}, 273–290. https://doi.org/10.3354/meps10123
+
+\vspace{0.1em}
+
+Pörtner, H.-O., Bock, C., \& Mark, F. C. (2017). Oxygen- and capacity-limited thermal tolerance: bridging ecology and physiology. \textit{The Journal of Experimental Biology}, \textit{220}(Pt 15), 2685–2696. https://doi.org/10.1242/jeb.134585
+
+\vspace{0.1em}
+
+Pörtner, H. O., \& Farrell, A. P. (2008). Physiology and climate change. \textit{Science}, \textit{322}(5902), 690–692. https://doi.org/10.1126/science.1163156
+
+\vspace{0.1em}
+
+Pörtner, H. O., \& Knust, R. (2007). Climate change affects marine fishes through the oxygen limitation of thermal tolerance. \textit{Science}, \textit{315}(5808), 95–97. https://doi.org/10.1126/science.1135471
+
+\vspace{0.1em}
+
+Raffaelli, D. G., \& Hawkins, S. J. (1996). \textit{Intertidal Ecology}. Springer Science \& Business Media.
+
+\vspace{0.1em}
+
+Rasmussen, L. L., Carter, M. L., Flick, R. E., Hilbern, M., Fumo, J. T., Cornuelle, B. D., Gordon, B. K., Bargatze, L. F., Gordon, R. L., \& McGowan, J. A. (2020). A century of southern California coastal ocean temperature measurements. \textit{Journal of Geophysical Research: Oceans}, \textit{125}(5), e2019JC015673. https://doi.org/10.1029/2019JC015673
+
+\vspace{0.1em}
+
+R Core Team. (2023). \textit{R: A Language and Environment for Statistical Computing}. R Foundation for Statistical Computing. https://www.R-project.org/
+
+\vspace{0.1em}
+
+Ricketts, E. F., Calvin, J., Hedgpeth, J. W., \& Phillips, D. W. (1985). \textit{Between Pacific Tides} (5th ed.). Stanford University Press. https://play.google.com/store/books/details?id=tUl5ESavtRIC
+
+\vspace{0.1em}
+
+Ries, J. B., Cohen, A. L., \& McCorkle, D. C. (2009). Marine calcifiers exhibit mixed responses to CO$_2$-induced ocean acidification. \textit{Geology}, \textit{37}(12), 1131–1134. https://doi.org/10.1130/G30210A.1
+
+\vspace{0.1em}
+
+\vspace{0.1em}
+
+Sanford, E. (1999). Regulation of keystone predation by small changes in ocean temperature. \textit{Science}, \textit{283}(5410), 2095–2097. https://doi.org/10.1126/science.283.5410.2095
+
+\vspace{0.1em}
+
+Schmidt-Nielsen, K. (1997). \textit{Animal Physiology: Adaptation and Environment} (5th ed.). Cambridge University Press. https://play.google.com/store/books/details?id=Af7IwQWJoCMC
+
+\vspace{0.1em}
+
+Schoolfield, R. M., Sharpe, P. J., \& Magnuson, C. E. (1981). Non-linear regression of biological temperature-dependent rate models based on absolute reaction-rate theory. \textit{Journal of Theoretical Biology}, \textit{88}(4), 719–731. https://doi.org/10.1016/0022-5193(81)90246-0
+
+\vspace{0.1em}
+
+Schulte, P. M. (2015). The effects of temperature on aerobic metabolism: towards a mechanistic understanding of the responses of ectotherms to a changing environment. \textit{The Journal of Experimental Biology}, \textit{218}(12), 1856–1866. https://doi.org/10.1242/jeb.118851
+
+\vspace{0.1em}
+
+Schulte, P. M., Healy, T. M., \& Fangue, N. A. (2011). Thermal performance curves, phenotypic plasticity, and the time scales of temperature exposure. \textit{Integrative and Comparative Biology}, \textit{51}(5), 691–702. https://doi.org/10.1093/icb/icr097
+
+\vspace{0.1em}
+
+Seebacher, F., White, C. R., \& Franklin, C. E. (2015). Physiological plasticity increases resilience of ectothermic animals to climate change. \textit{Nature Climate Change}, \textit{5}(1), 61–66. https://doi.org/10.1038/nclimate2457
+
+\vspace{0.1em}
+
+Shapiro, S. S., \& Wilk, M. B. (1965). An analysis of variance test for normality (complete samples). \textit{Biometrika}, \textit{52}(3–4), 591–611. https://doi.org/10.1093/biomet/52.3-4.591
+
+\vspace{0.1em}
+
+Sharpe, P. J., \& DeMichele, D. W. (1977). Reaction kinetics of poikilotherm development. \textit{Journal of Theoretical Biology}, \textit{64}(4), 649–670. https://doi.org/10.1016/0022-5193(77)90265-x
+
+\vspace{0.1em}
+
+Sharpley, C. F., \& Koehn, C. (2022). Frequency and content of the last fifty years of papers on Aristotle’s writings on biological phenomena. \textit{Journal of the History of Biology}, \textit{55}(3), 585–607. https://doi.org/10.1007/s10739-022-09683-8
+
+\vspace{0.1em}
+
+Silbiger, N. J., Donahue, M. J., \& Lubarsky, K. (2020). Submarine groundwater discharge alters coral reef ecosystem metabolism. \textit{Proceedings of the Royal Society B}, \textit{287}(1941), 20202743. https://doi.org/10.1098/rspb.2020.2743
+
+\vspace{0.1em}
+
+Silbiger, N. J., Goodbody-Gringley, G., Bruno, J. F., \& Putnam, H. M. (2019). Comparative thermal performance of the reef-building coral \textit{Orbicella franksi} at its latitudinal range limits. \textit{Marine Biology}, \textit{166}(10), 1–14. https://doi.org/10.1007/s00227-019-3573-6
+
+\vspace{0.1em}
+
+Silbiger, N. J., \& Sorte, C. J. B. (2018). Biophysical feedbacks mediate carbonate chemistry in coastal ecosystems across spatiotemporal gradients. \textit{Scientific Reports}, \textit{8}(1), 796. https://doi.org/10.1038/s41598-017-18736-6
+
+\vspace{0.1em}
+
+\vspace{0.1em}
+
+Sinclair, B. J., Marshall, K. E., Sewell, M. A., Levesque, D. L., Willett, C. S., Slotsbo, S., Dong, Y., Harley, C. D. G., Marshall, D. J., Helmuth, B. S., \& Huey, R. B. (2016). Can we predict ectotherm responses to climate change using thermal performance curves and body temperatures? \textit{Ecology Letters}, \textit{19}(11), 1372–1385. https://doi.org/10.1111/ele.12686
+
+\vspace{0.1em}
+
+Sjoberg, D. D., Whiting, K., Curry, M., Lavery, J. A., \& Larmarange, J. (2021). Reproducible summary tables with the gtsummary package. \textit{The R Journal}, \textit{13}(1), 570–580. https://doi.org/10.32614/RJ-2021-053
+
+\vspace{0.1em}
+
+Sokolova, I. M. (2013). Energy-limited tolerance to stress as a conceptual framework to integrate the effects of multiple stressors. \textit{Integrative and Comparative Biology}, \textit{53}(4), 597–608. https://doi.org/10.1093/icb/ict028
+
+\vspace{0.1em}
+
+Somero, G. N. (1995). Proteins and temperature. \textit{Annual Review of Physiology}, \textit{57}(1), 43–68. https://doi.org/10.1146/annurev.physiol.57.030195.000355
+
+\vspace{0.1em}
+
+Somero, G. N. (2002). Thermal physiology and vertical zonation of intertidal animals: optima, limits, and costs of living. \textit{Integrative and Comparative Biology}, \textit{42}(4), 780–789. https://doi.org/10.1093/icb/42.4.780
+
+\vspace{0.1em}
+
+Somero, G. N. (2011). Comparative physiology: a "crystal ball" for predicting consequences of global change. \textit{American Journal of Physiology-Regulatory, Integrative and Comparative Physiology}, \textit{301}(1), R1–R14. https://doi.org/10.1152/ajpregu.00719.2010
+
+\vspace{0.1em}
+
+Somero, G. N. (2020). The cellular stress response and temperature: Function, regulation, and evolution. \textit{Journal of Experimental Zoology Part A: Ecological and Integrative Physiology}, \textit{333}(6), 379–397. https://doi.org/10.1002/jez.2344
+
+\vspace{0.1em}
+
+Somero, G. N. (2022). Solutions: How adaptive changes in cellular fluids enable marine life to cope with abiotic stressors. \textit{Marine Life Science \& Technology}, \textit{4}(3), 389–413. https://doi.org/10.1007/s42995-022-00140-3
+
+\vspace{0.1em}
+
+Somero, G. N., Beers, J. M., Chan, F., Hill, T. M., Klinger, T., \& Litvin, S. Y. (2016). What changes in the carbonate system, oxygen, and temperature portend for the northeastern Pacific Ocean: A physiological perspective. \textit{Bioscience}, \textit{66}(1), 14–26. https://doi.org/10.1093/biosci/biv162
+
+\vspace{0.1em}
+
+Sorte, C. J. B., Bernatchez, G., Mislan, K. A. S., Pandori, L. L. M., Silbiger, N. J., \& Wallingford, P. D. (2019). Thermal tolerance limits as indicators of current and future intertidal zonation patterns in a diverse mussel guild. \textit{Marine Biology}, \textit{166}(1), 1–13. https://doi.org/10.1007/s00227-018-3452-6
+
+\vspace{0.1em}
+
+Spalding, C., Finnegan, S., \& Fischer, W. W. (2017). Energetic costs of calcification under ocean acidification. \textit{Global Biogeochemical Cycles}, \textit{31}(5), 866–877. https://doi.org/10.1002/2016GB005597
+
+\vspace{0.1em}
+
+Steinberg, P. D. (1985). Feeding preferences of \textit{Tegula funebralis} and chemical defenses of marine brown algae. \textit{Ecological Monographs}, \textit{55}(3), 333–349. https://doi.org/10.2307/1942581
+
+\vspace{0.1em}
+
+\vspace{0.1em}
+
+Stenseng, E., Braby, C. E., \& Somero, G. N. (2005). Evolutionary and acclimation-induced variation in the thermal limits of heart function in congeneric marine snails (\textit{genus Tegula}): Implications for vertical zonation. \textit{The Biological Bulletin}, \textit{208}(2), 138–144. https://doi.org/10.2307/3593122
+
+\vspace{0.1em}
+
+Stenseth, N. C., Mysterud, A., Ottersen, G., Hurrell, J. W., Chan, K.-S., \& Lima, M. (2002). Ecological effects of climate fluctuations. \textit{Science}, \textit{297}(5585), 1292–1296. https://doi.org/10.1126/science.1071281
+
+\vspace{0.1em}
+
+Suster, C. (2023). \textit{ggmapinset}: Add inset panels to maps. https://cran.r-project.org/package=ggmapinset
+
+\vspace{0.1em}
+
+Swezey, D. S., Boles, S. E., Aquilino, K. M., Stott, H. K., Bush, D., Whitehead, A., Rogers-Bennett, L., Hill, T. M., \& Sanford, E. (2020). Evolved differences in energy metabolism and growth dictate the impacts of ocean acidification on abalone aquaculture. \textit{Proceedings of the National Academy of Sciences of the United States of America}, \textit{117}(42), 26513–26519. https://doi.org/10.1073/pnas.2006910117
+
+\vspace{0.1em}
+
+Sydeman, W. J., García-Reyes, M., Schoeman, D. S., Rykaczewski, R. R., Thompson, S. A., Black, B. A., \& Bograd, S. J. (2014). Climate change and wind intensification in coastal upwelling ecosystems. \textit{Science}, \textit{345}(6192), 77–80. https://doi.org/10.1126/science.1251635
+
+\vspace{0.1em}
+
+Taylor, A. R., Brownlee, C., \& Wheeler, G. L. (2012). Proton channels in algae: Reasons to be excited. \textit{Trends in Plant Science}, \textit{17}(11), 675–684. https://doi.org/10.1016/j.tplants.2012.06.009
+
+\vspace{0.1em}
+
+Taylor, P. R. (1981). Hermit crab fitness: The effect of shell condition and behavioral adaptations on environmental resistance. \textit{Journal of Experimental Marine Biology and Ecology}, \textit{52}(2), 205–218. https://doi.org/10.1016/0022-0981(81)90037-X
+
+\vspace{0.1em}
+
+Tepler, S., Mach, K., \& Denny, M. (2011). Preference versus performance: Body temperature of the intertidal snail \textit{Chlorostoma funebralis}. \textit{The Biological Bulletin}, \textit{220}(2), 107–117. https://doi.org/10.1086/BBLv220n2p107
+
+\vspace{0.1em}
+
+Todgham, A. E., Schulte, P. M., \& Iwama, G. K. (2005). Cross-tolerance in the tidepool sculpin: The role of heat shock proteins. \textit{Physiological and Biochemical Zoology: PBZ}, \textit{78}(2), 133–144. https://doi.org/10.1086/425205
+
+\vspace{0.1em}
+
+Todgham, A. E., \& Stillman, J. H. (2013). Physiological responses to shifts in multiple environmental stressors: Relevance in a changing world. \textit{Integrative and Comparative Biology}, \textit{53}(4), 539–544. https://doi.org/10.1093/icb/ict086
+
+\vspace{0.1em}
+
+Tomanek, L. (2002). The heat-shock response: Its variation, regulation and ecological importance in intertidal gastropods (\textit{genus Tegula}). \textit{Integrative and Comparative Biology}, \textit{42}(4), 797–807. https://doi.org/10.1093/icb/42.4.797
+
+\vspace{0.1em}
+
+Tomanek, L., \& Helmuth, B. (2002). Physiological ecology of rocky intertidal organisms: A synergy of concepts. \textit{Integrative and Comparative Biology}, \textit{42}(4), 771–775. https://doi.org/10.1093/icb/42.4.771
+
+\vspace{0.1em}
+
+Tomanek, L., \& Sanford, E. (2003). Heat-shock protein 70 (Hsp70) as a biochemical stress indicator: An experimental field test in two congeneric intertidal gastropods (\textit{genus Tegula}). \textit{The Biological Bulletin}, \textit{205}(3), 276–284. https://doi.org/10.2307/1543291
+
+\vspace{0.1em}
+
+Tomanek, L., \& Somero, G. N. (1999). Evolutionary and acclimation-induced variation in the heat-shock responses of congeneric marine snails (\textit{genus Tegula}) from different thermal habitats: Implications for limits of thermotolerance and biogeography. \textit{The Journal of Experimental Biology}, \textit{202}(Pt 21), 2925–2936. https://doi.org/10.1242/jeb.202.21.2925
+
+\vspace{0.1em}
+
+Tomanek, L., \& Somero, G. N. (2002). Interspecific- and acclimation-induced variation in levels of heat-shock proteins 70 (HSP70) and 90 (HSP90) and heat-shock transcription factor-1 (HSF1) in congeneric marine snails (\textit{genus Tegula}): Implications for regulation of hsp gene expression. \textit{The Journal of Experimental Biology}, \textit{205}(Pt 5), 677–685. https://doi.org/10.1242/jeb.205.5.677
+
+\vspace{0.1em}
+
+Toniello, G., Lepofsky, D., Lertzman-Lepofsky, G., Salomon, A. K., \& Rowell, K. (2019). 11,500 years of human–clam relationships provide long-term context for intertidal management in the Salish Sea, British Columbia. \textit{Proceedings of the National Academy of Sciences}, \textit{116}(44), 22106–22114. https://doi.org/10.1073/pnas.1905921116
+
+\vspace{0.1em}
+
+Vermeij, G. J. (2020). Choice and the evolution of habitat specialization: The case of life on shells. \textit{Marine Biology}, \textit{167}(7), 94. https://doi.org/10.1007/s00227-020-03710-0
+
+\vspace{0.1em}
+
+Von Bertalanffy, L. (1957). Quantitative laws in metabolism and growth. \textit{The Quarterly Review of Biology}, \textit{32}(3), 217–231. https://doi.org/10.1086/401873
+
+\vspace{0.1em}
+
+Welch, B. L. (1947). The generalization of "Student’s" problem when several different population variances are involved. \textit{Biometrika}, \textit{34}(1/2), 28–35. https://doi.org/10.2307/2332510
+
+\vspace{0.1em}
+
+Whiteley, N. M. (2011). Physiological and ecological responses of crustaceans to ocean acidification. \textit{Marine Ecology Progress Series}, \textit{430}, 257–271. https://doi.org/10.3354/meps09185
+
+\vspace{0.1em}
+
+Wolfe, K., Nguyen, H. D., Davey, M., \& Byrne, M. (2020). Characterizing biogeochemical fluctuations in a world of extremes: A synthesis for temperate intertidal habitats in the face of global change. \textit{Global Change Biology}, \textit{26}(7), 3858–3879. https://doi.org/10.1111/gcb.15103
+
+\vspace{0.1em}
+
+Wolfe, W. H., Martz, T. R., Dickson, A. G., Goericke, R., \& Ohman, M. D. (2023). A 37-year record of ocean acidification in the southern California current. \textit{Communications Earth \& Environment}, \textit{4}(1), 406. https://doi.org/10.1038/s43247-023-01065-0
+
+\vspace{0.1em}
+
+Wolff, N. H., Donner, S. D., Cao, L., Iglesias-Prieto, R., Sale, P. F., \& Mumby, P. J. (2015). Global inequities between polluters and the polluted: Climate change impacts on coral reefs. \textit{Global Change Biology}, \textit{21}(11), 3982–3994. https://doi.org/10.1111/gcb.13015
+
+\vspace{0.1em}
+
+Woodwell, G. M. (1970). Effects of pollution on the structure and physiology of ecosystems: Changes in natural ecosystems caused by many different types of disturbances are similar and predictable. \textit{Science}, \textit{168}(3930), 429–433. https://doi.org/10.1126/science.168.3930.429
+
+\vspace{0.1em}
+
+Yee, E. H. (2002). Effects of temperature on activity, food consumption rates, and gut passage times of three seaweed-eating species of \textit{Tegula} (Trochidae) from central and southern California (Master’s thesis, California State University, Fullerton).
+
+\begingroup
+\normalsize

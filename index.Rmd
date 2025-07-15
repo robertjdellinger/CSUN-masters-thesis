@@ -1,0 +1,291 @@
+---
+title: "Masters Thesis"
+author: "Robert J. Dellinger"
+thesistitle: "Facing Physiological Constraints: The Interactive Effects of Ocean Acidification and Warming on the Energetics of an Intertidal Gastropod, *Tegula funebralis*"
+authorname: "Robert J. Dellinger"
+
+degreetype: "Master of Science"
+degreemonth: "August"
+degreeyear: "2024"
+
+department: "Biology"
+university: "California State University, Northridge"
+
+advisor: "Dr. Nyssa J. Silbiger"
+committeeInternalOne: "Dr. Peter J. Edmunds"
+committeeInternalTwo: "Dr. Kerry J. Nichols"
+
+documentclass: CSUNthesis
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+output: 
+  thesisdown::thesis_pdf:
+    toc_depth: 3
+    highlight: null 
+    includes: 
+      in_header: preamble.tex
+      after_body: backmatter.tex
+    toc: false
+    latex_engine: pdflatex
+    citation_package: natbib
+space_between_paragraphs: true
+geometry: letterpaper
+fontsize: 12pt
+lot: false
+lof: false
+
+bibliography: bib/references.bib
+csl: csl/apa.csl
+---
+
+<!--
+Above is the YAML (YAML Ain't Markup Language) header that includes metadata used to produce the doc!
+-->
+
+
+
+```{r include_packages, include = FALSE}
+
+# This chunk ensures that the thesisdown package is
+# installed and loaded. This thesisdown package includes
+# the template files for the thesis.
+if (!require(remotes)) {
+  if (params$`Install needed packages for {thesisdown}`) {
+    install.packages("remotes", repos = "https://cran.rstudio.com")
+  } else {
+    stop(
+      paste('You need to run install.packages("remotes")",
+            "first in the Console.')
+    )
+  }
+}
+if (!require(thesisdown)) {
+  if (params$`Install needed packages for {thesisdown}`) {
+    remotes::install_github("ismayc/thesisdown")
+  } else {
+    stop(
+      paste(
+        "You need to run",
+        'remotes::install_github("ismayc/thesisdown")',
+        "first in the Console."
+      )
+    )
+  }
+}
+library(thesisdown)
+library(here)
+# Set how wide the R output will go
+options(width = 70)
+library(knitr); opts_chunk$set(echo=FALSE)
+```
+
+<!-- You'll need to include the order that you'd like Rmd files to appear in the _bookdown.yml file for
+PDF files and also delete the # before rmd_files: there.  You'll want to not include 00(two-hyphens)prelim.Rmd
+and 00-abstract.Rmd since they are handled in the YAML above differently for the PDF version.
+-->
+
+```{=latex}
+\frontmatter
+
+% -------------------------------------------------------------------
+% Title Page
+% -------------------------------------------------------------------
+
+% Title page
+\pagestyle{empty}
+\maketitle
+
+% -------------------------------------------------------------------
+% Copyright and Signature
+% -------------------------------------------------------------------
+
+
+% Copyright & Signature
+\copyrightpage
+\signaturepage
+
+
+% -------------------------------------------------------------------
+% Dedication
+% -------------------------------------------------------------------
+
+
+\clearpage
+\phantomsection
+\addcontentsline{toc}{chapter}{Dedication}
+\thispagestyle{plain}
+
+\begin{center}
+  % push everything down on the page
+  \vspace*{\fill}
+
+  % constrain to 0.8\textwidth
+  \begin{minipage}{0.8\textwidth}
+    \begin{quote}
+      \itshape
+      “Against this cosmic background \\ 
+       the lifespan of a particular plant or animal appears,\\
+       not as drama complete in itself,\\ 
+       but only as a brief interlude in a panorama of endless change.”
+      \vspace{0.5em}
+
+      {\normalfont — Rachel Carson, \textit{Undersea} (1937)} \hfill
+    \end{quote}
+
+    \vspace{2cm}
+
+    \begin{quote}
+      \itshape
+      “For nothing is fixed, forever, forever, forever,\\
+      it is not fixed; the earth is always shifting,\\
+      the light is always changing,\\
+      the sea does not cease to grind down rock.\\
+      Generations do not cease to be born,\\
+      and we are responsible to them\\
+      because we are the only witnesses they have.\\[1em]
+      The sea rises, the light fails,\\
+      lovers cling to each other,\\
+      and children cling to us.\\
+      The moment we cease to hold each other,\\
+      the moment we break faith with one another,\\
+      the sea engulfs us, and the light goes out.”
+      \vspace{0.5em}
+
+      {\normalfont — James Baldwin, \textit{Nothing Personal} (1964)} \hfill
+    \end{quote}
+  \end{minipage}
+
+  % fill the rest of the page below
+  \vspace*{\fill}
+\end{center}
+
+% -------------------------------------------------------------------
+% Acknowledgments
+% -------------------------------------------------------------------
+
+
+% Acknowledgments
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Acknowledgments}
+\chapter*{Acknowledgments}
+\pagestyle{plain}
+
+\begin{spacing}{1.5}
+  \justifying
+  \indent Revealed by the ebb and flow of waves, tidepools unveil portals into different worlds and a glimpse into the future—a microcosmic convergence of biological and physical phenomena encapsulating the underlying logic of the universe. At this juncture, I am compelled to convey my profound gratitude to our ocean for the boundless generosity and wealth it bestows upon us daily. From the beginning of my childhood awe to the culmination of a lifelong dream and pursuit, its vastness has been a source of wonder and humility. In this moment of reflection, I must extend my most profound appreciation to Dr.~Nyssa~J.~Silbiger, my advisor, for her unwavering support, encouragement, inspirational attitude, and collaboration in realizing this endeavor. Thank you for believing in me, urging me to become the person I need to be, equipping me with the knowledge, tools, and skills required to achieve my childhood dream, and ignoring the lies we often tell ourselves about ourselves. To my thesis committee, Dr.~Peter~J.~Edmunds and Dr.~Kerry~J.~Nickols, thank you for your invaluable guidance and advice throughout this process. To the mentors who have illuminated my academic path, Dr.~Aradhna~Tripati, Dr.~Rachel~Bay, Dr.~Tessa~Hill, and Dr.~Melanie~Okoro, your mentorship has been akin to that of academic mothers, nurturing and uplifting me throughout my academic trajectory. To my students, thank you for continually teaching me and imbuing within me a profound sense of hope for the future. 
+  \par Unfortunately, it is not possible to include the names of all those who helped in some way with the preparation of this thesis; however, there are some people who deserve special mention. I would also like to extend my gratitude to the Silbiger Lab, Nichols Lab, and colleagues from CSUN, including M.~Abbott, D.~M.~Barnas, L.~Diaz, T.~Dhayalan, C.~Fajardo, J.~B.~Fields, H.~Merges, T.~Smith, K.~Williams, and M.~Zeff. In particular, I want to give a special thank you to Jenn~B.~Fields, Jamie~R.~Kerlin, and Taylorann~Smith for their monumental support in ensuring that everything ran smoothly inside and outside of the lab; they were always friends to rely on and played pivotal roles in ensuring the success of my degree. I would also like to express my gratitude to my partner, Taylor~B.~Mansmann, for their nurturing support and love, as well as their invaluable assistance with editing during the writing of this thesis. Without all of you, none of this would have been possible. Throughout endless sleepless nights and days of struggle, thank you for lifting as you climbed. A particularly special thank you to Ana and the rest of the custodial staff, whose skills are the keystone of the entire institution. Throughout my time in academia, the late nights when the custodial staff came in were often the only times I saw people who looked like me in the buildings I worked in; the home-cooked meals they brought me were a reminder of the values I was raised with, and their movements while transforming spaces, often serenaded by the rhythm of bachata and merengue, were the closest I felt to home within academia. 
+  \par I extend my heartfelt gratitude to my family, Robert~K.~Dellinger and Ana.~C.~Dellinger, for instilling within me the transformative capacity of education as not merely a tool but a beacon of liberation. Their unwavering support and belief in my dreams, regardless of their nature, have empowered me to reach for the stars. To my father, thank you for teaching me the importance of creativity and that every creation is infused with love; indeed, love is the secret ingredient that fuels our endeavors. To my mother, your sacrifice and resilience speak volumes; despite the trials and tribulations of an ungrateful nation, you persevered, sacrificing your dreams so that mine could take flight—your selflessness and unwavering dedication have shaped me in ways the English language fails to articulate. Thank you to all of those who have parented me and to the push of the universe for laughing at me. Thank you to my chosen family, including my closest friends, Nick~J.~Carter, Carson~Graves, Samantha~Seven, Taylorann~Smith, my partner Taylor~B.~Mansmann, and my community, who immersed me in a Queerness that dominant systems cannot comprehend, who illuminated alternative paths from the outdated paradigms we are entangled in, and who remember to swim despite everything. Their love and resilience have nurtured me and imbued me with the buoyancy and fortitude to demand better from the world around me. I have learned so much from your willingness to churn the waters up and thank you for being holders of wisdom and knowledge, for allowing every movement and moment to be guided by love and joy, and for showing me that the facts of nature often falsify the prevailing theories. I would not be here today without your love and support. Being a part of the CSUN and Los Angeles community over the past three years has been profoundly transformative, shaping both my personal growth and career trajectory. \par This research would not have been possible without the financial support from the National Science Foundation Graduate Research Fellowship Program, UCLA Center for Diverse Leadership in Science Early Career Fellowship, UC Davis Sustainable Oceans Scholar Program, and the National Science Foundation CAREER grant OCE-2044837 awarded to Dr.~Nyssa~Silbiger. The material in this study is based upon work supported by the U.S. National Science Foundation, the CSUN Department of Biology, and research activities that were conducted under scientific collecting permits issued by the California Department of Fish and Wildlife (ID: S-220520002-22054-00). Finally, and most importantly, I would like to acknowledge the Tongva and Chumash peoples, on whose land I have studied, lived, and worked; I pay my respects to their elders past, present, and emerging. May we work to hasten the return of all land to the leadership and stewardship of Indigenous people.
+\end{spacing}
+
+% -------------------------------------------------------------------
+% Table of Contents, List of Tables, List of Figures
+% -------------------------------------------------------------------
+
+% Table of Contents 
+\begin{spacing}{1.5}
+  \tableofcontents
+\end{spacing}
+
+% List of Figures
+\begin{spacing}{1.5}
+  \listoffigures
+\end{spacing}
+
+% List of Tables 
+\begin{spacing}{1.5}
+  \listoftables
+\end{spacing}
+
+% -------------------------------------------------------------------
+% List of Abbreviations / Symbols 
+% -------------------------------------------------------------------
+
+% List of Abbreviations
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{List of Abbreviations}
+\chapter*{List of Abbreviations}
+
+\begin{spacing}{1}
+\begin{center}
+\begin{tabular}{@{}ll@{}}
+AIC      & Akaike Information Criterion \\
+AICc     & Akaike Information Criterion Corrected \\
+ANOVA    & Analysis of Variance \\
+ATP (C$_{10}$H$_{16}$N$_5$O$_{13}$P$_3$)       & Adenosine Triphosphate \\
+BIC      & Bayesian Information Criterion \\
+CCS      & California Current System \\
+CI       & Confidence Interval \\
+CO$_2$(aq) & Carbon Dioxide (aqueous) \\
+CO$_2$(g)  & Carbon Dioxide (gaseous) \\
+CO$_3^{2-}$ & Carbonate Ion \\
+CRM      & Certified Reference Material \\
+CT$_\mathrm{max}$ & Critical Thermal Maximum \\
+CT$_\mathrm{min}$ & Critical Thermal Minimum \\
+DIC      & Dissolved Inorganic Carbon \\
+DO       & Dissolved Oxygen \\
+E$_a$    & Activation Energy \\
+E$_h$    & Deactivation Energy \\
+HCO$_3^-$ & Bicarbonate Ion \\
+IPCC     & Intergovernmental Panel on Climate Change \\
+k$_B$    & Boltzmann Constant \\
+MTE      & Metabolic Theory of Ecology \\
+N        & Number of Observations \\
+pCO$_2$  & Partial Pressure of Carbon Dioxide \\
+R$_\mathrm{max}$ & Maximum Rate of Performance \\
+OA       & Ocean Acidification \\
+OW       & Ocean Warming \\
+pH$_T$   & Potential of Hydrogen (Total scale) \\
+SST      & Sea Surface Temperature \\
+TA       & Total Alkalinity \\
+T        & Absolute Temperature \\
+T$_\mathrm{br}$ & Thermal Breadth \\
+T$_\mathrm{opt}$ & Thermal Optimum \\
+TPC      & Thermal Performance Curves \\
+TRIS     & Tris-Hydroxymethyl Aminomethane \\
+T$_\mathrm{ref}$ & Reference Temperature \\
+$\sigma$    & Standard Deviation (SD) \\
+$\sigma_x$  & Standard Error (SE) \\
+$\bar{x}$   & Sample Mean \\
+$\mu$       & Population Mean \\
+\end{tabular}
+\end{center}
+\end{spacing}
+
+% -------------------------------------------------------------------
+% Abstract
+% -------------------------------------------------------------------
+
+% Abstract
+\cleardoublepage
+\pagestyle{plain}
+\phantomsection
+\addcontentsline{toc}{chapter}{Abstract}
+\chapter*{Abstract}
+```
+
+\begin{center}
+  Facing Physiological Constraints: The Interactive Effects of Ocean Acidification and Warming
+  on the Energetics of an Intertidal Gastropod, \textit{Tegula funebralis}\\[0.8em]
+  By\\[0.2em]
+  Robert J.~Dellinger\\[0.4em]
+  Master of Science in Biology
+\end{center}
+
+\begin{spacing}{1.5}
+
+  \indent Ocean acidification (OA) and ocean warming (OW) are dual consequences of anthropogenically induced CO\textsubscript{2}, forcing marine species to undergo evolutionary responses within relatively short ecological time frames. These concurrent biogeochemical changes act interactively to impose additional metabolic constraints, altering interactions between species and reverberating throughout ecological networks to modify energetic flow and dynamics within communities. Historically, studies assessing the combined effects of OA and OW on physiological processes have been limited due to a reductionist approach that treats environmental drivers of change in isolation. The highly variable coastal environment of the rocky intertidal zone and the organisms that inhabit these ecosystems serve as a model system for understanding the physiological mechanisms through which organisms respond to multiple drivers of environmental change. To address these knowledge gaps, this study employed thermal performance curves to empirically characterize the relationship between respiration rates, energy expenditure, and temperature in \textit{Tegula funebralis}, an intertidal herbivore ubiquitous to California’s rocky intertidal ecosystems. Thermal performance was measured across eight temperatures (12–26\textdegree C) within the context of local natural variability and blocked exposure to one of two ocean pH conditions: current (pH\textsubscript{T} $7.9 \pm 0.01$) and future predicted pH (pH\textsubscript{T} $7.7 \pm 0.01$). My results showed no statistical differences in thermal performance metrics associated with thermal optimum, breadth, activation energy, or critical thermal maximum between high and low pH treatments. However, pH treatment had a significant effect on the respiration rate at the thermal optimum, where snails in the more acidic treatment respired $49.6\%$ faster than snails in the ambient pH treatment at the optimum temperature ($T_\mathrm{opt}$ = 24.2\textdegree C). While there were no significant effects of pH on thermal optimum, I demonstrate that predicted changes in ocean warming will put \textit{Tegula} at risk of experiencing temperatures exceeding their thermal optimum up to approximately $20\%$ of the year by 2100. In addition to a thermal performance curve approach, I examined the interactive effects of pH and temperature on energy currency, using oxy-enthalpic equivalents to quantify energetic expenditure. There was a significant interaction between temperature and pH on energetic expenditure, where pH had the largest effect on snail energy expenditure at 22\textdegree C and 24\textdegree C. These results empirically characterize how the combined effects of OA and OW may influence some thermal performance metrics but not others, illustrating that organismal-level impacts are complex and often subtle. Ultimately, this study demonstrates that the interactive effects of OA and OW will significantly elevate the respiratory demand of marine organisms, with these impacts cascading to alter broader ecosystem processes driven by these organisms, and inevitably the services and functions of ecosystems within which humanity is embedded.
+  
+\vspace{0.2em}
+
+\noindent\textbf{Keywords:} Global Change Ecology, Multiple Stressors, Thermal Performance Curves, Ocean Acidification, Respiration, Metabolic Rate, Intertidal Ecosystems, Energetic Expenditure, \textit{Tegula funebralis}
+
+\end{spacing}
+
+\newpage
+
+```{=latex}
+% Done with front matter; start main chapters
+\mainmatter
+```

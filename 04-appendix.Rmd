@@ -1,0 +1,76 @@
+`r if(knitr:::is_latex_output()) '\\appendix'`
+
+`r if(!knitr:::is_latex_output()) '# (APPENDIX) Appendix {-}'` 
+
+<!--
+If you feel it necessary to include an appendix, it goes here.
+-->
+# Appendix A: Supplemental Figures {-}
+\addcontentsline{toc}{chapter}{Appendix A: Supplemental Figures}
+\setcounter{figure}{0}
+\renewcommand{\thefigure}{A\arabic{figure}}
+
+\begin{figure}[H]
+\centering
+\caption[Histogram plots of seawater temperature and pH$_\mathrm{T}$.]{Histogram plots of daily average seawater temperature (°C) and pH$_\mathrm{T}$ measurements from a continuous subtidal monitoring station illustrating coastal ocean variability. (A) Distribution of daily average seawater temperature from a subtidal monitoring station at Newport Beach Pier, depicting observed frequencies from 2020 to 2024, with dashed horizontal lines representing the set temperature treatments of the experiment, and the labeled mean for the temperature distribution ($\hat{\mu}$). (B) Distribution of daily average pH$_\mathrm{T}$ measurements at Newport Beach Pier, depicting observed frequencies from 2020–2024, with vertical dashed lines indicating the set pH treatment values of the experiment and a labeled mean of the pH$_\mathrm{T}$ distribution ($\hat{\mu}$). Temperature and pH data were filtered to exclude flagged and extreme values, followed by a calculation of daily averages. Histogram plots were created using the \texttt{ggstatsplot} package in R (Patil, 2021). Data for these plots were provided by the Southern California Coastal Ocean Observing System and the Shore Stations Program at the Scripps Institution of Oceanography, supported by the California Department of Parks and Recreation, Natural Resources Division, Award\#C1670003 (Carter et al., 2023).}
+\includegraphics[width=5in]{figures/appendix/Appendix_1_SST_pH.png}
+\label{fig:appendixA1}
+\end{figure}
+
+
+# Appendix B: Supplemental Tables {-}
+\addcontentsline{toc}{chapter}{Appendix B: Supplemental Tables}
+\setcounter{table}{0}
+\renewcommand{\thetable}{B\arabic{table}}
+
+\begin{table}[H]
+\caption[Summary statistics for mesocosm tank treatments.]{Summary statistics table (Mean ± SE) for tank treatments and associated water quality and biogeochemistry parameters subjected to low and ambient pH levels alongside temperature variations ranging from 12–26$^\circ$C. The depicted parameters include temperature ($^\circ$C), pH$_\mathrm{T}$ (total scale), salinity (ppt), dissolved oxygen (mg L$^{-1}$), total alkalinity (TA), partial pressure of CO$_2$ ($p$CO$_2$), mean bicarbonate concentration (HCO$_3^-$), carbonate concentration (CO$_3^{2-}$), and dissolved inorganic carbon (DIC) computed using the \texttt{seacarb} package in R (Gattuso et al., 2015). Summary table created using the \texttt{gtsummary} package (Sjoberg et al., 2021).}
+\centering
+\includegraphics[width=5.5in]{figures/appendix/Appendix_2_Mesocosm_Table.png}
+\label{tab:appendixB1}
+\end{table}
+
+
+\begin{table}[H]
+\caption[Welch's $t$-test results for pH differences.]{Welch's $t$-Test for difference of pH between pH treatment groups. Results display group means ($\bar{x}$), difference in means ($\bar{x}_{\text{ambient}} - \bar{x}_{\text{low}}$), 95\% confidence intervals (CI), degrees of freedom (df), $t$-statistic, and $p$-value.}
+\centering
+\includegraphics[width=6in]{figures/appendix/Appendix_3_ttest_pH.png}
+\label{tab:appendixB2}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+\caption[Two-Way ANOVA for seawater temperature treatments.]{Two-Way ANOVA results for temperature ($^\circ$C) by temperature treatment and pH treatment to test for significant differences in seawater conditions between tanks. ANOVA results include main effects of Temperature Treatment, pH treatment, and their interaction as sources of variation, with degrees of freedom (df), sum of squares (SS), mean squares (MS), $F$-Statistic, and $p$-value.}
+\centering
+\includegraphics[width=5in]{figures/appendix/Appendix_4_Mesocosm_ANOVA_Temp.png}
+\label{tab:appendixB3}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+\caption[Comparative model fits for respiration rates.]{Comparative model fits and fitted curve plots for respiration rates ($\mu$mol O$_2$ g$^{-1}$ h$^{-1}$) across temperature (12–26$^\circ$C) between low and ambient pH treatments, based on Sharpe-Schoolfield (High-Activation) model estimates. Best-fit models were selected by lowest corrected AICc value. Bootstrap analysis summary table presents coefficient estimates, standard errors ($\sigma_{\bar{x}}$), p-values, and biases for both pH treatments. Significant coefficients ($p < 0.001$) are marked with asterisks.}
+\centering
+\includegraphics[width=5in]{figures/appendix/Appendix_5_Model_Selection.png}
+\label{tab:appendixB4}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+\caption[Two-Way ANOVA for energetic expenditure.]{Two-Way ANOVA results for the role of temperature and pH on energetic expenditure (J g$^{-1}$ h$^{-1}$) in \textit{Tegula funebralis}. The table includes the main effects of Temperature Treatment, pH Treatment, and their interaction, with degrees of freedom (df), sum of squares (SS), mean squares (MS), $F$-Statistic, and $p$-value.}
+\centering
+\includegraphics[width=5in]{figures/appendix/Appendix_6_Joule_ANOVA.png}
+\label{tab:appendixB5}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+\caption[Pairwise energy expenditure differences across pH treatments.]{Energy expenditure of \textit{Tegula funebralis} (J g$^{-1}$ h$^{-1}$) across varying temperature treatments (12–26$^\circ$C) under ambient and low pH conditions. Pairwise comparisons between pH treatments were calculated using the estimated marginal means, with means ($\bar{x}$), standard errors ($\sigma_{\bar{x}}$), pairwise differences, 95\% confidence intervals, $t$-statistics, adjusted $p$-values (Bonferroni correction), and percent differences between treatments. Significant differences ($p < 0.05$) are noted.}
+\centering
+\includegraphics[width=5in]{figures/appendix/Appendix_7_J_Table.png}
+\label{tab:appendixB6}
+\end{table}
+

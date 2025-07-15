@@ -1,0 +1,113 @@
+% ------------------------------------------------------
+% CSUN Preamble (preamble.tex)
+% ------------------------------------------------------
+
+% -----------------------
+% URL and Hyperlink Setup
+% -----------------------
+
+\PassOptionsToPackage{bookmarks=true,
+                     colorlinks=true,
+                     linkcolor=black,    % internal links (ToC, \ref, \autoref) stay black
+                     citecolor=black,    % citations stay black
+                     urlcolor=cyan,      % pure URLs, DOIs, etc. become cyan
+                     pdfusetitle}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}
+
+% -----------------------
+% Fonts and Math Packages
+% -----------------------
+\usepackage{mathptmx}       % Times font
+\usepackage{lmodern}        % Latin Modern fonts
+\usepackage{amssymb}        % math symbols
+\usepackage{amsmath}        % math environments
+\usepackage{amsthm}         % theorem environments
+\usepackage{latexsym}       % additional symbols
+
+% -----------------------
+% Tables and Arrays
+% -----------------------
+\usepackage{array}          % extended array/tabular
+\usepackage{booktabs}       % professional tables
+\usepackage{longtable}      % tables spanning pages
+\usepackage{multirow}       % multirow cells
+\usepackage{makecell}       % better cell formatting
+\usepackage{adjustbox}      % for resizing tables or graphics
+\usepackage{calc}           % calculations with lengths
+\usepackage{setspace}
+\usepackage{tabularx}
+\setlength{\parindent}{2em}
+
+% -----------------------
+% Figures and Graphics
+% -----------------------
+\usepackage{graphicx}       % include graphics
+\usepackage{pdfpages}       % include pdf pages
+\usepackage{tikz}           % drawing package
+\usepackage{tikz-cd}        % commutative diagrams
+\usetikzlibrary{matrix, arrows.meta, decorations.pathmorphing}
+
+% -----------------------
+% Color and Highlighting
+% -----------------------
+\usepackage{xcolor}         % color management
+\colorlet{shadecolor}{cyan!10}  % make Shaded environments a very light cyan
+
+
+% -----------------------
+% Code Highlighting
+% -----------------------
+\usepackage{fancyvrb}       % enhanced verbatim environments
+\usepackage{framed}         % framed and shaded environments
+% Define the Shaded environment used by knitr/Pandoc for code chunks
+\newenvironment{Shaded}{\begin{shaded}}{\end{shaded}}
+
+% Pandoc/knitr highlighting macros: include them here or input from a file
+% Option 1: paste macros here (see below)
+% Option 2: input from external file 'highlighting.tex'
+% \input{highlighting.tex} 
+
+% Here is a minimal example of required highlighting macros for tango style:
+\makeatletter
+\newcommand\KeywordTok[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand\DataTypeTok[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand\DecValTok[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand\BaseNTok[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand\FloatTok[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand\CharTok[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand\StringTok[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand\CommentTok[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand\OtherTok[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand\AlertTok[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand\FunctionTok[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand\RegionMarkerTok[1]{#1}
+\newcommand\ErrorTok[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand\NormalTok[1]{#1}
+\makeatother
+
+% -----------------------
+% Layout and Formatting
+% -----------------------
+\usepackage{fancyhdr}       % headers and footers
+\usepackage{setspace}       % line spacing
+\usepackage{verbatim}       % comment environment
+\usepackage{lettrine}       % dropped capitals
+\usepackage{titling}        % title customization
+\usepackage{float}          % float control
+\floatplacement{figure}{H}  % force figures here
+\usepackage{rotating}       % rotate figures or tables
+
+% -----------------------
+% Chemistry
+% -----------------------
+\usepackage{chemfig}        % chemistry diagrams/arrows
+\usepackage[version=4]{mhchem}
+
+% -----------------------
+% Miscellaneous
+% -----------------------
+\usepackage{ragged2e}
+\usepackage{caption} % Make sure this is in your preamble
+\captionsetup{width=\textwidth} % Add this once globally in preamble, or locally as below
+
